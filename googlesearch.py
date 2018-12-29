@@ -13,7 +13,7 @@ google="Google"
 for i in range(6):
 	go.color(list[i])
 	go.write(google[i],True,font=("Times new roman",60))
-go.goto(270,55),go.color("grey"),go.write("RGUKT",True,font=("Times new roman",15,"bold")),go.goto(480,-280),go.color("black"),go.write("by",True,font=("Times new roman",15)),go.goto(500,-300),go.write("P.Jagadish..",True,font=("Times new roman",20)),go.color("brown"),go.goto(-670,280),go.pd(),go.pensize(6),go.fd(590),go.pensize(1.5),go.bk(30),go.rt(90),go.fd(500),go.rt(70),go.fd(300),go.rt(40),go.fd(270),go.rt(70),go.fd(510)	
+go.goto(270,55),go.color("grey"),go.write("RGUKT",True,font=("Times new roman",15,"bold")),go.goto(480,-280),go.color("black"),go.write("by",True,font=("Times new roman",15)),go.goto(500,-300),go.write("R.Bhavana..",True,font=("Times new roman",20)),go.color("brown"),go.goto(-670,280),go.pd(),go.pensize(6),go.fd(590),go.pensize(1.5),go.bk(30),go.rt(90),go.fd(500),go.rt(70),go.fd(300),go.rt(40),go.fd(270),go.rt(70),go.fd(510)	
 #$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 #+++++++++++++++++++this is main program++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 def keys(n):
